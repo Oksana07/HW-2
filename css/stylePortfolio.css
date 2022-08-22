@@ -131,14 +131,14 @@ body {
     height: 38px;
     left: 495px;
     top: 174px; */
-  background: #f5f4fa;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
   border: transparent;
   cursor: pointer;
-  background: var(--background-color);
+  background: var(--secondary-backgound-color);
   border-radius: 4px;
   border: none;
 }
